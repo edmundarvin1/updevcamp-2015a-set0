@@ -1,0 +1,65 @@
+.masthead-heading,
+.masthead-intro {
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  background-color: #8FB996;
+}
+
+.masthead {
+  font-family: "Libre Baskerville";
+  color: #A1CCA5;
+  height: 19em;
+  border-top: 1.5em;
+  border-style: solid;
+  border-color: #111D13 #111D13;
+  padding: 6em 0;
+  background-image: url("https://images.unsplash.com/photo-1441943250180-ea34e997ffad?ixlib=rb-0.3.5&q=80&fm=jpg&s=06ef2ea0ab08cb0ea5c0b9b8e8b64b87");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.masthead-intro {
+  margin-bottom: 0.1em;
+  font-size: 2.5em;
+  color: #60AF83
+}
+
+.masthead-heading {
+  margin-top: -0.2em;
+  font-weight: bold;
+  font-size: 5em;
+  color: #60AF83
+}
+
+section {
+  width: 30em;
+  margin: 0 auto;
+  padding: .1em;
+  background-color: #8FB996;
+}
+
+h2 {
+  font-size: 1em;
+  color: #B5FFCC
+}
+
+p {
+  text-align: center;
+  color: #415D43;
+  font-size: 1em;
+}
+
+h3 {
+  font-size: .9em;
+}
+.footer-section{
+  text-align: center;
+  list-style-type: none;
+  ;
+}
+li{
+  display: inline-block;
+}
